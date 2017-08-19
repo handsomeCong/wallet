@@ -11,6 +11,8 @@ public class StringReference {
 		String a="ymk";
 		String b=a;
 		b="abc";
+
+
 		System.out.println("a===="+a);
 		System.out.println("b===="+b);
 	}
